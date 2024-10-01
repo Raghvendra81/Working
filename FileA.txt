@@ -1,1 +1,2 @@
 This is FileA.txt
+New changes added in FileA.
